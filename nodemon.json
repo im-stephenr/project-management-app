@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "imstephenr",
+    "DB_PASSWORD": "123qweasdzxc",
+    "DB_NAME": "mern-pms",
+    "JWT_KEY": "secret_jwt_key"
+  }
+}
